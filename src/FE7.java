@@ -1,4 +1,6 @@
-public class FE7 {
+import com.company.Main;
+
+public class FE7 extends Main {
 
 
     public String getChars(){
@@ -6,7 +8,6 @@ public class FE7 {
         String [] units = {"Marcus", "Lowen", "Rebecca", "Dorcas", "Bartre", "Owsin", "Serra", "Matthew","Guy", "Erk", "Priscilla", "Sain", "Kent", "Wil", "Florina","Raven", "Lucius", "Canas", "Dart", "Fiora", "Legault", "Ninian/Nils", "Isadora", "Heath", "Rath", "Hawkeye", "Geitz", "Wallace", "Pent", "Louise", "Karel", "Harken", "Nino", "Jaffar", "Vaida", "Karla", "Farina", "Renault", "Athos"  };
         return units[1];
     }
-
 
 
 }
