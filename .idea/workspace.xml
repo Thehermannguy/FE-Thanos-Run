@@ -17,46 +17,47 @@
     <session id="-958030786">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="4" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="3" />
-          <entry key="project.open.time.21" value="4" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="5" />
+          <entry key="project.open.time.22" value="3" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="15987" />
-          <entry key="txt" value="90" />
+          <entry key="java" value="22833" />
+          <entry key="txt" value="173" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15987" />
-          <entry key="PLAIN_TEXT" value="90" />
+          <entry key="JAVA" value="22833" />
+          <entry key="PLAIN_TEXT" value="173" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="2" />
-          <entry key="java" value="11" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -66,30 +67,40 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+            <state relative-caret-position="18">
+              <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#Exception#0;class#Main#0" />
+                <element signature="e#1685#1686#0" expanded="true" />
+                <element signature="e#1802#1803#0" expanded="true" />
+                <element signature="method#FireEmbull#0;class#Main#0" />
+                <element signature="method#FireEmbull2#0;class#Main#0" />
+                <element signature="method#FireEmbull3#0;class#Main#0" />
+                <element signature="method#FireEmbull4#0;class#Main#0" />
+                <element signature="method#FireEmbull5#0;class#Main#0" />
+                <element signature="method#FireEmbull6#0;class#Main#0" />
                 <element signature="method#FireEmbull7#0;class#Main#0" />
                 <element signature="method#FireEmbull8#0;class#Main#0" />
                 <element signature="method#FireEmbull9#0;class#Main#0" />
+                <element signature="method#FireEmbull10#0;class#Main#0" />
                 <element signature="method#FireEmbull11#0;class#Main#0" />
                 <element signature="method#FireEmbull12#0;class#Main#0" />
                 <element signature="method#FireEmbull13#0;class#Main#0" />
                 <element signature="method#FireEmbull14#0;class#Main#0" />
-                <element signature="e#16054#16055#0" expanded="true" />
-                <element signature="e#16201#16202#0" expanded="true" />
+                <element signature="method#FireEmbull15#0;class#Main#0" />
+                <element signature="method#FireEmbull16#0;class#Main#0" />
+                <element signature="e#29250#29251#0" expanded="true" />
+                <element signature="e#29397#29398#0" expanded="true" />
                 <element signature="method#ForLoop#0;class#Main#0" />
                 <element signature="method#TheSnap#0;class#Main#0" />
+                <element signature="method#MysteryOptions#0;class#Main#0" />
+                <element signature="method#GenealogyOptions#0;class#Main#0" />
+                <element signature="method#RadiantDawnOptions#0;class#Main#0" />
                 <element signature="method#ShadowDragonOptions#0;class#Main#0" />
                 <element signature="method#AwakeningOptions#0;class#Main#0" />
                 <element signature="method#FatesOptions#0;class#Main#0" />
                 <element signature="method#EchoesOptions#0;class#Main#0" />
-                <element signature="e#19287#19288#0" expanded="true" />
-                <element signature="e#19358#19359#0" expanded="true" />
-                <element signature="e#19400#19401#0" expanded="true" />
-                <element signature="e#19474#19475#0" expanded="true" />
+                <element signature="method#ThreeHousesOptions#0;class#Main#0" />
               </folding>
             </state>
           </provider>
@@ -129,8 +140,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
     <option name="height" value="525" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -140,6 +151,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,14 +163,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/herma/Desktop/Programme/FE Thanos Run/src/FE7.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572637264377" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572637505781" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,7 +234,14 @@
       <workItem from="1572379712427" duration="2828000" />
       <workItem from="1572421672461" duration="2780000" />
       <workItem from="1572442095492" duration="2380000" />
-      <workItem from="1572626570859" duration="6810000" />
+      <workItem from="1572626570859" duration="7233000" />
+      <workItem from="1572646569297" duration="1089000" />
+      <workItem from="1572802763469" duration="2598000" />
+      <workItem from="1572874662743" duration="144000" />
+      <workItem from="1572951102956" duration="1202000" />
+      <workItem from="1572986359575" duration="1856000" />
+      <workItem from="1573241820198" duration="5291000" />
+      <workItem from="1573465923487" duration="3609000" />
     </task>
     <task id="LOCAL-00001" summary="Added FE8 to FE12... FE10 is still missing&#10;FE 11 has multiple options to choose from">
       <created>1572383138326</created>
@@ -232,17 +250,30 @@
       <option name="project" value="LOCAL" />
       <updated>1572383138326</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added some new FE casts&#10;&#10;&#10;To do: Add the remaining FE titles: 1,2,3,4,5,10,16">
+      <created>1572637256447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572637256447</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added some new FE casts&#10;&#10;&#10;To do: Add the remaining FE titles: 1,2,3,4,5,10,16">
+      <created>1572637276222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572637276222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48491000" />
+    <option name="totallyTimeSpent" value="64703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34966442" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3872483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -251,14 +282,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4986577" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013423" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -280,7 +311,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added FE8 to FE12... FE10 is still missing&#10;FE 11 has multiple options to choose from" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added FE8 to FE12... FE10 is still missing&#10;FE 11 has multiple options to choose from" />
+    <MESSAGE value="Added some new FE casts&#10;&#10;&#10;To do: Add the remaining FE titles: 1,2,3,4,5,10,16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some new FE casts&#10;&#10;&#10;To do: Add the remaining FE titles: 1,2,3,4,5,10,16" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/FE7.java">
@@ -314,32 +346,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="879" column="16" selection-start-line="879" selection-start-column="16" selection-end-line="879" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        <state relative-caret-position="18">
+          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#Exception#0;class#Main#0" />
+            <element signature="e#1685#1686#0" expanded="true" />
+            <element signature="e#1802#1803#0" expanded="true" />
+            <element signature="method#FireEmbull#0;class#Main#0" />
+            <element signature="method#FireEmbull2#0;class#Main#0" />
+            <element signature="method#FireEmbull3#0;class#Main#0" />
+            <element signature="method#FireEmbull4#0;class#Main#0" />
+            <element signature="method#FireEmbull5#0;class#Main#0" />
+            <element signature="method#FireEmbull6#0;class#Main#0" />
             <element signature="method#FireEmbull7#0;class#Main#0" />
             <element signature="method#FireEmbull8#0;class#Main#0" />
             <element signature="method#FireEmbull9#0;class#Main#0" />
+            <element signature="method#FireEmbull10#0;class#Main#0" />
             <element signature="method#FireEmbull11#0;class#Main#0" />
             <element signature="method#FireEmbull12#0;class#Main#0" />
             <element signature="method#FireEmbull13#0;class#Main#0" />
             <element signature="method#FireEmbull14#0;class#Main#0" />
-            <element signature="e#16054#16055#0" expanded="true" />
-            <element signature="e#16201#16202#0" expanded="true" />
+            <element signature="method#FireEmbull15#0;class#Main#0" />
+            <element signature="method#FireEmbull16#0;class#Main#0" />
+            <element signature="e#29250#29251#0" expanded="true" />
+            <element signature="e#29397#29398#0" expanded="true" />
             <element signature="method#ForLoop#0;class#Main#0" />
             <element signature="method#TheSnap#0;class#Main#0" />
+            <element signature="method#MysteryOptions#0;class#Main#0" />
+            <element signature="method#GenealogyOptions#0;class#Main#0" />
+            <element signature="method#RadiantDawnOptions#0;class#Main#0" />
             <element signature="method#ShadowDragonOptions#0;class#Main#0" />
             <element signature="method#AwakeningOptions#0;class#Main#0" />
             <element signature="method#FatesOptions#0;class#Main#0" />
             <element signature="method#EchoesOptions#0;class#Main#0" />
-            <element signature="e#19287#19288#0" expanded="true" />
-            <element signature="e#19358#19359#0" expanded="true" />
-            <element signature="e#19400#19401#0" expanded="true" />
-            <element signature="e#19474#19475#0" expanded="true" />
+            <element signature="method#ThreeHousesOptions#0;class#Main#0" />
           </folding>
         </state>
       </provider>
